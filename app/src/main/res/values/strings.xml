@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Role play Assistant</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_characters">Characters</string>
+    <string name="nav_item_rooms">Rooms</string>
+    <string name="nav_item_settings">Settings</string>
+    <string name="nav_item_about">About</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_characters</item>
+        <item>@string/nav_item_rooms</item>
+        <item>@string/nav_item_settings</item>
+	    <item>@string/nav_item_about</item>
+    </string-array>
+
+    <string name="title_characters">Characters</string>
+    <string name="title_rooms">Rooms</string>
+    <string name="title_settings">Settings</string>
+	<string name="title_about">About</string>
+</resources>
